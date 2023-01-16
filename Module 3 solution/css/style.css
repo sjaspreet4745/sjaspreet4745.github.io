@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+
+.menu-div{
+    font-size: 2rem;
+    font-family: 'Rowdies', cursive;
+    height:50px;
+}
+.navbar p{
+    font-family: 'Rowdies', cursive;
+    padding: 10px 0px 0px 15px;
+    font-size: 2rem;
+}
+
+.heading{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Rowdies', cursive;
+}
